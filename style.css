@@ -6,7 +6,7 @@ body {
   
   .cv-container {
     display: flex;
-    flex-direction: row; /*  aligner les éléments horizontalement */
+    flex-direction: row; 
     max-width: 800px;
     margin: 20px auto;
     background-color: rgb(255, 255, 255);
@@ -14,34 +14,34 @@ body {
   }
   
   .cv-sidebar {
-    background-color: #f7e1e1; /* Couleur de fond pour la barre latérale */
-    padding: 20px; /* Espace autour du contenu de la barre latérale */
-    width: 35%; /* la largeur de la barre latérale */
+    background-color: #f7e1e1; 
+    padding: 20px; 
+    width: 35%; 
   }
   
   .cv-main {
-    padding: 20px; /* Espace autour du contenu de la partie principale */
-    width: 65%; /* largeur de la partie principale */
+    padding: 20px;
+    width: 65%; 
   }
   
-  /* Styles pour les titres et le texte */
+
   h1 {
     color: #000000;
-    margin-bottom: 16px; /* Espace sous le titre principal */
+    margin-bottom: 16px; 
   }
   
   h2 {
-    font-size: 20px; /* Taille de la police pour les titres secondaires */
-    margin-bottom: 10px; /* Espace sous les titres secondaires */
-    padding-bottom: 5px; /* Espace sous le texte des titres secondaires */
-    border-bottom: 2px solid #f0cece; /* Ligne sous les titres secondaires */
+    font-size: 20px; 
+    margin-bottom: 10px; 
+    padding-bottom: 5px; 
+    border-bottom: 2px solid #f0cece; 
   }
   
-  /* Paragraphes */
+  
   p {
-    font-size: 14px; /* Taille de la police pour les paragraphes */
-    line-height: 1.6; /* Hauteur de ligne pour les paragraphes */
-    margin-bottom: 10px; /* Espace sous les paragraphes */
+    font-size: 14px; 
+    line-height: 1.6; 
+    margin-bottom: 10px;
   }
   
   
